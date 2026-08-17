@@ -1,0 +1,13 @@
+pymupdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+rank-bm25
+google-genai
+datasets
+transformers
+peft
+trl
+accelerate
+bitsandbytes
+torchao>=0.16.0
